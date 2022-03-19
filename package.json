@@ -1,8 +1,7 @@
 {
   "name": "agendaclinica",
   "version": "0.0.0",
-  "scripts": {
-    "start": "index.html",
+  "scripts": {   
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview --port 5050",
