@@ -1,2 +1,2 @@
-web:npm run build
-    npm run dev
+web:npm run build && npm run dev
+   
