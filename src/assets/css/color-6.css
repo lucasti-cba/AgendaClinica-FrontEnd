@@ -112,7 +112,7 @@ body {
   overflow-x: hidden;
   font-family: "Montserrat", sans-serif;
   color: #242934;
-  background-color: #d08aec; }
+  background-color: #f9f5fb; }
 
 ul {
   padding-left: 0px;
@@ -271,7 +271,7 @@ input:focus {
   .setting-primary:hover {
     background-color: #7951aa; }
     .setting-primary:hover svg {
-      color: #fff; }
+      color: rgb(102, 21, 122); }
     .setting-primary:hover i {
       color: #fff; }
 
